@@ -1,4 +1,4 @@
-# Survival Nexus
+# Survival Nexus WIP
 
 **Survival Nexus** is a VR survival game that immerses players in a hostile and dynamically generated world where they must gather resources, craft tools, build shelters, and defend against various enemies to survive. The game features a unique blend of exploration, crafting, and combat, all enhanced by immersive VR interactions.
 
